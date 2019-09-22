@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebanooyu.7foundation.com/sitemap.xml
